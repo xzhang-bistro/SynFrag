@@ -5,7 +5,7 @@
 
 # SynFrag: Synthetic Accessibility via Fragment Assembly Generation
 > Predict the synthetic accessibility of molecules like an experienced synthetic chemist
-## 🎯 What Makes SynFrag Different
+## 💗 What Makes SynFrag Different
 SynFrag revolutionizes synthetic accessibility prediction through **Pre-training strategy for generating molecules via fragment autoregressive assembly**. Unlike traditional approaches that directly learn synthesis patterns, SynFrag first masters molecular construction fundamentals—understanding how molecules are assembled from fragments—then applies this knowledge to predict synthetic accessibility.
 ### Two-Stage Learning:
 * **Stage 1**: Pretrain on 9.2M unlabeled molecules to learn molecular assembly patterns
@@ -13,7 +13,7 @@ SynFrag revolutionizes synthetic accessibility prediction through **Pre-training
 
 This mirrors human chemical intuition: experienced chemists understand molecular construction before assessing synthetic difficulty.
 
-## ✨ Key Features
+## 🎇 Key Features
 * Easy Integration - Simple CSV input/output format
 * Batch Prediction - One-click synthetic accessibility scoring
 * High Accuracy - Achieves SOTA performance on multiple test sets with key metrics including accuracy, AUROC and specificity.
@@ -63,7 +63,7 @@ Output file will contain SynFrag values:
 - Close to 0: Hard to synthesize
 * Threshold 0.5: Binary classification cutoff
 
-## 📖 Advanced Usage
+## 🛸 Advanced Usage
 Custom Pretraining and Finetuning task
 ### Pretrain Model
 ```python
@@ -81,16 +81,16 @@ Note: `smiles.txt` contains unlabeled molecules, `fragment.txt` is a fragment vo
 ```
 Note: `gnn_pretrained.pth` is a model saved in pretraining stage, `dataset.csv` contains labeled molecules for finetune on specific downstream task.
 
-## 🔧 Requirements
+## 🛠️ Requirements
 * Python 3.8-3.10
 * CUDA-enabled GPU (recommended)
 * Key dependencies: PyTorch, RDKit, DGL, DeepChem
 
-## 📄 Citation
+## 🤗 Citation
 If this program is useful to you, please cite our paper:
 
 
-## 📧 Contact
+## 💌 Contact
 For technical support, please contact: Xiang Zhang (Email: zhangxiang@simm.ac.cn)
 ______________________________________________________________________________________________________
-🌟 **Like this project? Give us a Star**
+⭐ **Like this project? Give us a Star**
