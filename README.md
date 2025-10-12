@@ -19,7 +19,7 @@ This mirrors human chemical intuition: experienced chemists understand molecular
 * High Accuracy - Achieves SOTA performance on multiple test sets with key metrics including accuracy, AUROC and specificity.
 
 ## 🌐 Online Service
-**Instant molecular synthesis prediction in the cloud.** Simply upload your CSV file with SMILES and receive AI-powered synthetic accessibility scores in seconds.
+[**SynFrag**](https://synfrag.simm.ac.cn)**Instant molecular synthesis prediction in the cloud.** Simply upload your CSV file with SMILES and receive AI-powered synthetic accessibility scores in seconds.
 
 ## 🚀 Quick Start
 ### 1. Installation
