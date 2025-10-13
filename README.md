@@ -5,6 +5,9 @@
 
 # SynFrag: Synthetic Accessibility Predictor based on Fragment Assembly Generation in Drug Discovery
 > Predict the synthetic accessibility of molecules like an experienced synthetic chemist
+<p align="center">
+  <img style="float: center" src="SynFrag.png" alt="alt text" width="650px" align="center"/>
+</p>
 ## 💗 What Makes SynFrag Different
 SynFrag revolutionizes synthetic accessibility prediction through **Pre-training strategy for generating molecules via fragment autoregressive assembly**. Unlike traditional approaches that directly learn synthesis patterns, SynFrag first masters molecular construction fundamentals—understanding how molecules are assembled from fragments—then applies this knowledge to predict synthetic accessibility.
 ### Two-Stage Learning:
