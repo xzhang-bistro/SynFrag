@@ -76,7 +76,7 @@ Output file will contain SynFrag values:
 - Resource-limited synthesis (0.6-0.7): Prioritize precision, avoid investing in difficult targets.
 
 ## 🛸 Advanced Usage
-**Custom Pretraining and Finetuning Workflow**
+**Custom Pretraining and Finetuning Workflow** <br />
 For researchers working with specialized chemical spaces or proprietary compound libraries, SynFrag supports custom training pipelines.
 ### Pretrain Model
 ```python
