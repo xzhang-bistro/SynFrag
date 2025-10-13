@@ -13,17 +13,17 @@
 ## 💗 What Makes SynFrag Different
 > Predict the **Synthetic Accessibility (SA)** of molecules like an experienced synthetic chemist
 
-To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining** by DFS, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability, the key to bridging in silico and in lab drug discovery, in identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
-### SA-Aware Learning:
+To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining**, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability, the key to bridging in silico and in lab drug discovery, in identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
+### SA-aware Learning:
 * **Stage 1**: Pretrain on 9.18M unlabeled molecules to learn fragment assembly patterns.
 * **Stage 2**: Finetune on 800K labeled molecules to transfer the knowledge in SA prediction.
 
 ## 🎇 Key Features
-* ⚡ High-speed with Accuracy and Robustness.
+* 🎯 Accuracy and Robustness in High-speed.
 * 🧩 Chemical Intuition and Interpretability.
 * 📦 Easy Integration Online platform.
 
-## 🌐 [SynFrag Online Service](https://synfrag.simm.ac.cn)
+## 🌐 <u>[SynFrag Online Service](https://synfrag.simm.ac.cn)</u>
 > A free, open-access web platform combining rapid SA screening with interpretable attention heatmap and integrated retrosynthetic tool.
 
 <p align="center">
