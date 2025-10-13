@@ -109,7 +109,7 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
 ## 🛠️ Requirements
 * Python ≥ 3.8
 * ≥ 4 TESLA A100 GPUs (recommended)
-* Key dependencies: [_PyTorch_](https://pytorch.org/), [_Miniforge_](https://github.com/conda-forge/miniforge)), [_RDKit_](https://www.rdkit.org/), [_DGL_](https://www.dgl.ai/), [_DeepChem_](https://deepchem.io/about/)
+* Key dependencies: [_PyTorch_](https://pytorch.org/), [_Miniforge_](https://github.com/conda-forge/miniforge), [_RDKit_](https://www.rdkit.org/), [_DGL_](https://www.dgl.ai/), [_DGL-Life_](https://lifesci.dgl.ai/), [_DeepChem_](https://deepchem.io/about/)
 
 ## 🤗 Citation
 If this program is useful to you, please cite our paper:
