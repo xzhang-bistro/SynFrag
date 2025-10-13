@@ -91,6 +91,7 @@ For researchers working with specialized chemical spaces or proprietary compound
     python ./scripts/utils/mol/cls.py --input smiles.txt
 ```
 This vocabulary defines the label space for the autoregressive assembly task, capturing common structural motifs in your dataset.
+
 **Output:** Pretrained AttentiveFP encoder saved as `gnn_pretrained.pth`, ready for downstream finetuning.
 ### Finetune Model
 ```python
@@ -101,6 +102,7 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
 **Input:**
 * `gnn_pretrained.pth`: Model checkpoint from pretraining stage containing molecular representations with fragment assembly patterns.
 - `dataset.csv`: CSV file with columns 'smiles' and binary label for your specific task.
+- 
 **Output:** Finetuned model saved as `synfrag_finetuned.pth`, ready for inference on target chemical space.
 ## 🛠️ Requirements
 * Python 3.8-3.10
