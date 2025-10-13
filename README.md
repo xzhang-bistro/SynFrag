@@ -21,10 +21,10 @@ To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Fram
 ## 🎇 Key Features
 * ⚡ High-speed with Accuracy and Robustness.
 * 🧩 Chemical Intuition and Interpretability.
-* 📦 Easy Integrated Online platform with CASP.
+* 📦 Easy Integration Online platform.
 
-## 🌐 Online Service
-[**SynFrag**](https://synfrag.simm.ac.cn) - A free, open-access web platform combining rapid SA screening with interpretable attention heatmap and integrated retrosynthetic tool.
+## 🌐 [SynFrag Online Service](https://synfrag.simm.ac.cn)
+> A free, open-access web platform combining rapid SA screening with interpretable attention heatmap and integrated retrosynthetic tool.
 
 <p align="center">
   <img style="float: center" src="SynFrag_web.png" alt="alt text" width="1000px" align="center"/>
