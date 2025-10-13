@@ -3,11 +3,14 @@
 [![GitHub](https://img.shields.io/badge/simmzx💤-181717?style=flat&logo=github&logoColor=white)](https://github.com/simmzx)[![Email](https://img.shields.io/badge/📧Email-1E88E5?style=flat)](mailto:zhangxiang@simm.ac.cn?subject=Regarding%20FARScore)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# SynFrag: Synthetic Accessibility Predictor based on Fragment Assembly Generation in Drug Discovery
+<h1 align="center">  SynFrag  </h1>
+<h3 align="center"> Synthetic Accessibility Predictor based on Fragment Assembly Generation in Drug Discovery </h3>
+
 > Predict the synthetic accessibility of molecules like an experienced synthetic chemist
 <p align="center">
-  <img style="float: center" src="SynFrag.png" alt="alt text" width="650px" align="center"/>
+  <img style="float: center" src="SynFrag.png" alt="alt text" width="1000px" align="center"/>
 </p>
+
 ## 💗 What Makes SynFrag Different
 SynFrag revolutionizes synthetic accessibility prediction through **Pre-training strategy for generating molecules via fragment autoregressive assembly**. Unlike traditional approaches that directly learn synthesis patterns, SynFrag first masters molecular construction fundamentals—understanding how molecules are assembled from fragments—then applies this knowledge to predict synthetic accessibility.
 ### Two-Stage Learning:
