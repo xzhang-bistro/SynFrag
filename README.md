@@ -27,7 +27,7 @@ To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Fram
 > A free, open-access web platform combining rapid SA screening with interpretable attention heatmap and integrated retrosynthetic tool.
 
 <p align="center">
-  <img style="float: center" src="SynFrag_web.png" alt="alt text" width="1000px" align="center"/>
+  <img style="float: center" src="SynFrag_web.png" alt="alt text" width="960px" align="center"/>
 </p>
 
 ## 🚀 Quick Start
