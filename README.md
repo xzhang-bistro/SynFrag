@@ -107,9 +107,9 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
 **Output:** <br />
 * Finetuned model saved as `synfrag_finetuned.pth`, ready for inference on target chemical space.
 ## 🛠️ Requirements
-* Python 3.8-3.10
-* CUDA-enabled GPU (recommended)
-* Key dependencies: PyTorch, RDKit, DGL, DeepChem
+* Python ≥ 3.8
+* ≥ 4 TESLA A100 GPUs (recommended)
+* Key dependencies: [_PyTorch_](https://pytorch.org/), [_Miniforge_](https://github.com/conda-forge/miniforge)), [_RDKit_](https://www.rdkit.org/), [_DGL_](https://www.dgl.ai/), [_DeepChem_](https://deepchem.io/about/)
 
 ## 🤗 Citation
 If this program is useful to you, please cite our paper:
