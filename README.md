@@ -12,6 +12,7 @@
 
 ## 💗 What Makes SynFrag Different
 > Predict the **Synthetic Accessibility(SA)** of molecules like an experienced synthetic chemist
+
 To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining** by DFS, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability to identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
 ### SA-Aware Learning:
 * **Stage 1**: Pretrain on 9.18M unlabeled molecules to learn fragment assembly patterns
