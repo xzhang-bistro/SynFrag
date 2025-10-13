@@ -11,20 +11,24 @@
 </p>
 
 ## 💗 What Makes SynFrag Different
-> Predict the **Synthetic Accessibility(SA)** of molecules like an experienced synthetic chemist
+> Predict the **Synthetic Accessibility (SA)** of molecules like an experienced synthetic chemist
 
-To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining** by DFS, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability to identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
+To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining** by DFS, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability, the key to bridging in silico and in lab drug discovery, in identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
 ### SA-Aware Learning:
-* **Stage 1**: Pretrain on 9.18M unlabeled molecules to learn fragment assembly patterns
-* **Stage 2**: Finetune on 800K labeled molecules to transfer the knowledge in SA prediction
+* **Stage 1**: Pretrain on 9.18M unlabeled molecules to learn fragment assembly patterns.
+* **Stage 2**: Finetune on 800K labeled molecules to transfer the knowledge in SA prediction.
 
 ## 🎇 Key Features
-* Easy Integration - Simple CSV input/output format
-* Batch Prediction - One-click synthetic accessibility scoring
-* High Accuracy - Achieves SOTA performance on multiple test sets with key metrics including accuracy, AUROC and specificity.
+* ⚡ High-speed with Accuracy and Robustness.
+* 🧩 Chemical Intuition and Interpretability.
+* 📦 Easy Integrated Online platform with CASP.
 
 ## 🌐 Online Service
-[**SynFrag**](https://synfrag.simm.ac.cn)**Instant molecular synthesis prediction in the cloud.** Simply upload your CSV file with SMILES and receive AI-powered synthetic accessibility scores in seconds.
+[**SynFrag**](https://synfrag.simm.ac.cn) - A free, open-access web platform combining rapid SA screening with interpretable attention heatmap and integrated retrosynthetic tool.
+
+<p align="center">
+  <img style="float: center" src="SynFrag_web.png" alt="alt text" width="1000px" align="center"/>
+</p>
 
 ## 🚀 Quick Start
 ### 1. Installation
