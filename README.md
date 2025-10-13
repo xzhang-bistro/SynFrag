@@ -99,8 +99,8 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
         --dataset dataset.csv
 ```
 **Input:**
-`gnn_pretrained.pth`: Model checkpoint from pretraining stage containing molecular representations with fragment assembly patterns.
-`dataset.csv`: CSV file with columns 'smiles' and binary label for your specific task.
+* `gnn_pretrained.pth`: Model checkpoint from pretraining stage containing molecular representations with fragment assembly patterns.
+- `dataset.csv`: CSV file with columns 'smiles' and binary label for your specific task.
 **Output:** Finetuned model saved as `synfrag_finetuned.pth`, ready for inference on target chemical space.
 ## 🛠️ Requirements
 * Python 3.8-3.10
