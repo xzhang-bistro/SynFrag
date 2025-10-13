@@ -10,7 +10,7 @@
   <img style="float: center" src="SynFrag.png" alt="alt text" width="1000px" align="center"/>
 </p>
 
-## 💗 What Makes SynFrag Different
+## 💗 What Makes SynFrag Different?
 > Predict the **Synthetic Accessibility (SA)** of molecules like an experienced synthetic chemist
 
 To mirrors chemist thinking, SynFrag revolutionizes SA prediction through **Frament Assembly autoregressive Generation pretraining**, transfer the synthesis workflow that chemists start with commercially available building blocks and perform stepwise assembly through systematic reactions to a machine learning task for SA prediction. SynFrag shows not just great performance domenstrated by SOTA across three benchmarks and two real-word scenario test set, but also chemical interpretability by fragment assembly patterns and attentive heatmap corresponding to reactive sites, demonstrated ability, the key to bridging in silico and in lab drug discovery, in identify "synthetic difficulty cliff" and relative SA of intermediates in multi-step synthetic reactions.
