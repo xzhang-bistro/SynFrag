@@ -8,6 +8,10 @@
   in Drug Discovery </h3>
 
 <p align="center">
+  📃 <a href="https://doi.org/10.26434/chemrxiv-2025-33251" target="_blank">Preprint</a>
+</p>
+
+<p align="center">
   <img style="float: center" src="SynFrag.png" alt="alt text" width="1000px" align="center"/>
 </p>
 
