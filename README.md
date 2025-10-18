@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <h1 align="center">  SynFrag  </h1>
-<h3 align="center"> Synthetic Accessibility Predictor based on Fragment Assembly Generation <br> 
+<h3 align="center"> Synthetic Accessibility Predictor <br> based on Fragment Assembly Generation
   in Drug Discovery </h3>
 
 <p align="center">
