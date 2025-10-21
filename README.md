@@ -117,7 +117,15 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
 * Key dependencies: [_PyTorch_](https://pytorch.org/), [_Miniforge_](https://github.com/conda-forge/miniforge), [_RDKit_](https://www.rdkit.org/), [_DGL_](https://www.dgl.ai/), [_DGL-Life_](https://lifesci.dgl.ai/), [_DeepChem_](https://deepchem.io/about/)
 
 ## 🤗 Citation
-If this program is useful to you, please cite our paper:
+If you find this repository and our paper useful, we kindly request to cite our work.
+```BibTex
+@article{zhang2025synfrag,
+  title     = {SynFrag: Synthetic Accessibility Predictor based on Fragment Assembly Generation in Drug Discovery},
+  author    = {Zhang, Xiang and Liu, Jia and Xu, Bufan and Zhang, Zihan and Huang, Zifu and Chen, Kaixian and Wang, Dingyan and Li, Xutong},
+  journal   = {ChemRxiv},
+  year      = {2025}
+}
+```
 
 
 ## 💌 Contact
