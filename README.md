@@ -40,7 +40,7 @@ To mirror chemist thinking, SynFrag revolutionizes SA prediction through **Frame
 ```python
     # Clone repository
     git clone https://github.com/simmzx/SynFrag.git
-    cd ../SynFrag
+    cd ../SynFrag/model/
 
     # Create environment and install dependencies
     conda create -n SynFrag python=3.8
