@@ -67,7 +67,7 @@ Direct SMILES Mode
 ```
 ### 4. View Results
 Output file will contain SynFrag values:
-| molecule_id | smiles  | synfrag |
+| molecule_id | smiles  | SynFrag |
 | :------------: |:---------------:|:-----:|
 | Palbociclib      | CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C | 0.9453 |
 | (+)-Eburnamonine | [C@]12(C3=C4CCN1CCC[C@@]2(CC(=O)N3C1C4=CC=CC=1)CC)[H]        |    0.0286 |
