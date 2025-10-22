@@ -40,7 +40,6 @@ To mirror chemist thinking, SynFrag revolutionizes SA prediction through **Frame
 ```python
     # Clone repository
     git clone https://github.com/simmzx/SynFrag.git
-    cd ../SynFrag/model/
 
     # Create environment and install dependencies
     conda create -n SynFrag python=3.8
@@ -56,6 +55,7 @@ Palbociclib  | CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C 
 ### 3. Run Prediction
 CSV File Mode
 ```python
+    cd ../SynFrag/model/
     python synfrag.py --input_file example.csv
 ```
 Direct SMILES Mode
