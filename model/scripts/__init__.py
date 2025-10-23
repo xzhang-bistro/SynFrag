@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
 
-try:
-    from . import model
-    from . import utils
-except ImportError as e:
-    print(f"Warning: Could not import scripts submodules: {e}")
-
-__all__ = [
-    'model',
-    'utils'
-]
+__version__ = '1.0.0'
+__all__ = []
 
 def get_scripts_info():
+    """Get information about the scripts package structure"""
     return {
         'model': 'Core model implementations (AttentiveFP, etc.)',
         'utils': 'Utility functions for molecular processing and neural networks'
