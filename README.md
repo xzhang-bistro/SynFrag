@@ -68,7 +68,7 @@ SMILES Mode
     python synfrag.py --smiles "CCO" "CC(=O)O" "c1ccccc1"
 ```
 ### 4. View Results
-Output file will contain "SynFrag" values:
+Output file will contain "SynFrag" perditions:
 | molecule_id | SMILES  | SynFrag |
 | :------------: |:---------------:|:-----:|
 | Palbociclib      | CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C | 0.9453 |
