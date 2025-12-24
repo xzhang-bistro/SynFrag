@@ -85,7 +85,7 @@ Output file will contain "SynFrag" perditions:
 ## 🛸 Advanced Usage
 **Custom Pretraining and Finetuning Workflow** <br />
 For researchers working with specialized chemical spaces or proprietary compound libraries, SynFrag supports custom training pipelines.
-### Pretrain Model
+### 1.Pretrain
 ```python
     python synfrag_pretrain.py \
         --dataset smiles.txt \
@@ -101,7 +101,7 @@ This vocabulary defines the label space for the autoregressive assembly task, ca
 
 **Output:** <br />
 * Pretrained AttentiveFP encoder saved as `gnn_pretrained.pth`, ready for downstream finetuning.
-### Finetune Model
+### 2.Finetune
 ```python
     python synfrag_finetune.py \
         --input_model_file gnn_pretrained.pth \
