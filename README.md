@@ -1,6 +1,7 @@
 [![AIDD](https://img.shields.io/badge/🧬%20AIDD-Synthetic%20Accessibility-4CAF50?style=flat)](https://github.com/simmzx/SynFrag)
 [![PyPI](https://img.shields.io/badge/PyPI-synfrag%20v1.0.0-306998?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/synfrag/)
 [![GitHub](https://img.shields.io/badge/simmzx💤-181717?style=flat&logo=github&logoColor=white)](https://github.com/simmzx)[![Email](https://img.shields.io/badge/📧Email-1E88E5?style=flat)](mailto:zhangxiang@simm.ac.cn?subject=Regarding%20FARScore)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://github.com/simmzx/simmzx/blob/main/QRcode.jpg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <h1 align="center">  SynFrag  </h1>
