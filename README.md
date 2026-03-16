@@ -9,7 +9,7 @@
   in Drug Discovery </h3>
 
 <p align="center">
-  📃 <a href="https://doi.org/10.26434/chemrxiv-2025-33251" target="_blank">DOI</a> · 📕 <a href="https://simmzx.github.io/SynFrag_ChemRxiv.pdf" target="_blank">PDF</a>
+  📃 <a href="https://doi.org/10.1021/acs.jcim.5c02450" target="_blank">DOI</a> · 📕 <a href="https://simmzx.github.io/SynFrag_JCIM.pdf" target="_blank">PDF</a>
 </p>
 
 <p align="center">
